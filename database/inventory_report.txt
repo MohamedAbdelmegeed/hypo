@@ -1,0 +1,44 @@
+====================================
+     HYPER MARKET INVENTORY REPORT
+====================================
+
+====================================
+Product ID    : 291
+Name          : apple
+Price         : $125.0
+Quantity      : 15
+Minimum Stock : 5
+Expiry Date   : 2026-12-12
+Status        : AVAILABLE
+====================================
+
+====================================
+Product ID    : 290
+Name          : watermelon
+Price         : $15.0
+Quantity      : 100
+Minimum Stock : 60
+Expiry Date   : 2026-12-12
+Status        : AVAILABLE
+====================================
+
+====================================
+Product ID    : 1
+Name          : tomato
+Price         : $25.0
+Quantity      : 10
+Minimum Stock : 1
+Expiry Date   : 2026-12-12
+Status        : AVAILABLE
+====================================
+
+====================================
+Product ID    : 2
+Name          : banana
+Price         : $90.0
+Quantity      : 60
+Minimum Stock : 10
+Expiry Date   : 2026-10-10
+Status        : AVAILABLE
+====================================
+
